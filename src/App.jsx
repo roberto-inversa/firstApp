@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Ciao!
+        Ciao! Una modifica per capire come funziona il live reload
       </p>
     </>
   )
